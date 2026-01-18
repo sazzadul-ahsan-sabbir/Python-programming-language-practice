@@ -1,0 +1,1 @@
+print("Hello world");print("I am a student");print("Computer Science student")
